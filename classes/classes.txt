@@ -1,0 +1,6 @@
+car
+person
+bluePlate
+greenPlate
+greenPlate2
+yellowPlate
